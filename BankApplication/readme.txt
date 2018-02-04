@@ -1,0 +1,1 @@
+A singleton design pattern demo 
