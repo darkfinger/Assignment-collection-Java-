@@ -1,0 +1,3 @@
+a.	Write a class  Card  that will represent a card in a standard deck of playing cards. You will need to represent both the suit (clubs, diamonds, hearts or spades) as well as the rank ( A, K, Q, J, 10, 9, 8, 7, 6, 5, 6, 7, 2) of each card. Provide useful methods for class Card. Then write class TestCards to make an array of Cards
+		 Card deck[] = new Card[52];
+Write a method that will perform a perfect shuffle on a deck of cards represented using the class from part a. In a perfect shuffle, the deck is broken exactly in half and rearranged so that the first card is followed by the 27th card, followed by the second card, followed by the 28th card, and so on. Print nice out put.
